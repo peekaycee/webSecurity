@@ -1,0 +1,22 @@
+form {
+    margin-bottom: 22em;
+    padding-left: 0.5em;
+}
+
+input{
+    margin: 0.5em;
+    background: #646cff;
+    outline: none;
+    border: 0;
+    padding: 0.3rem;
+    width: 60%;
+    border-radius: 4px;
+}
+.login{
+    background: #646cff;
+    outline: none;
+    border: 0;
+}
+.login:hover {
+    background: #747bff;
+}
