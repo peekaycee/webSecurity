@@ -4,6 +4,7 @@ import Login from "./pages/Login";
 import Dashboard from "./pages/Dashboard";
 import Navbar from "./components/Navbar";
 import Footer from "./components/Footer";
+import PageNotFound from "./pages/PageNotFound";
 
 const App = () => {
   return (
